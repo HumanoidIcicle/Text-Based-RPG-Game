@@ -1,0 +1,22 @@
+ITEM;bleach sword;weapon;1;4
+ITEM;Chainsaw man;weapon;2;5
+ITEM;bow and arrow;weapon;3;2
+
+ITEM;Ingrid Bergman-KEY;key;5
+ITEM;Anne Hathaway-KEY;key;6
+
+ITEM;Em Blunt Delight;consumable;7
+ITEM;Water;consumable;8
+ITEM;La vie en Rose;consumable;9
+ITEM;Bordeaux;consumable;10
+ITEM;Reversed Cursed technique;consumable;11
+ITEM;Shoko's massage;consumable;12
+ITEM;Tsukumo's spa-day;consumable;13
+
+Enemy;GOBLIN;hp=12:atk=3:def=1:hit=0.5:crit=0.2
+Enemy;Skeleton;hp=18:atk=4:def=1:hit=0.6:crit=0.2
+Enemy;Skeleton;hp=16:atk=4:def=1:hit=0.6:crit=0.2
+Enemy;Skeleton;hp=17:atk=4:def=1:hit=0.6:crit=0.2
+Enemy;GOBLIN;hp=12:atk=3:def=1:hit=0.7:crit=0.2
+Enemy;goblin;hp=12:atk=4:def=1:hit=0.8:crit=0.2
+Enemy;boss;hp=30:atk=5:def=1:hit=0.8:crit=0.2

@@ -1,0 +1,11 @@
+R1;Entrance;Starting Area, a dimly lit room.;R3;R2; ; ;bleach sword|water|Tsukumi's spa-day;goblin
+
+R2;Enchanted Library;Endless cursed bookshelf maze.; ; ;;R1;Em Blunt Delight|Chainsaw man|Anne Hathaway-KEY;Skeleton
+
+R3;Liminal Passage;A dark winding path to oblivion.;R4;;R1; ;La vie en Rose|Ingrid Bergman-KEY|bow and arrow;goblin
+
+R4;Malevolent Shrine;Dusty abandoned old Sukuna shrine.; ;R5;R3; ;Reversed Cursed technique|Bone-key;SKELETON
+
+R5;Vecna's Upside-Down Dungeon;Dangerous dark R5 crawling with mythical creatures.; ;R6;;R4;Bordeaux|Shoko's massag;boss
+
+R6;Dimensional Portal;The Inverted Exit.; ; ;;R5;;
